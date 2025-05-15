@@ -47,7 +47,7 @@ During my two‑month internship, I collected and analyzed data from IFFCO’s E
 ## 4. Scope
 
 - **Geography:** Tier 3 and Tier 4 cities served by IFFCO BAZAR.  
-- **Products:** High‑volume staples (rice, wheat, pulses).  
+- **Products:** High‑volume fertilizers & insecticides for staples(rice, wheat, pulses), tools & machineries. 
 - **Data Range:** January 2023 – April 2024.  
 - **Exclusions:** Cold‑chain, perishables, and international logistics.
 
@@ -77,7 +77,7 @@ During my two‑month internship, I collected and analyzed data from IFFCO’s E
 - **Inventory Trends:**  
   - Peak reorder points vary by location → safety stock adjusted accordingly.  
 - **Lead‑Time Improvement:**  
-  - Proposed route changes cut average delivery time from 48 hrs to 42 hrs (12% reduction).  
+  - Proposed route changes cut average delivery time from 48 hrs to 42 hrs (14% reduction).  
 - **Forecast Accuracy:**  
   - Moving‑average model hit 85% accuracy in predicting weekly demand.  
 - **Customer Feedback:**  
@@ -91,6 +91,8 @@ Through low‑cost, data‑driven tactics, IFFCO can:
 - Maintain optimal stock levels in all warehouses.
 - Reduce delivery lead times and failed shipments.
 - Improve customer satisfaction with timely notifications.
+- Avoid Stockouts during high demands at peak seasons.
+- Reduce surplus stock by deploying ABC analysis & Lean inventory methods 
   
 These improvements are implementable with existing systems and minimal additional tools.
 
@@ -100,7 +102,7 @@ These improvements are implementable with existing systems and minimal additiona
 
 - **Advanced Forecasting:** Test ARIMA or ML models for better demand prediction.  
 - **Dynamic Routing:** Integrate Google Maps API for real‑time traffic data.  
-- **Dashboard:** Build a live Power BI or Tableau dashboard for ongoing monitoring.  
+- **Dashboard:** Build a live Power BI dashboard for ongoing monitoring.  
 - **Scale Perishables:** Extend methodology to temperature‑sensitive goods.
 
 ---
